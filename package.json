@@ -47,7 +47,7 @@
     "lusca": "^1.7.0",
     "minimatch": "10.2.5",
     "mongoose": "^8.24.1",
-    "multer": "2.2.0",
+    "multer": "2.3.0",
     "node-fetch": "3.3.2",
     "nodemailer": "9.0.1",
     "patch-package": "8.0.1",
